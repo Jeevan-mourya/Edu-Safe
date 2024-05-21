@@ -1,5 +1,7 @@
 # EDU-SAFE
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 EDU-SAFE is a user-friendly website blocker application designed to help manage online activities by restricting access to specific websites or categories of websites. It is ideal for personal productivity, parental control, and maintaining a focused work environment. The application operates by blocking access to specified URLs, ensuring a safe and productive browsing experience.
