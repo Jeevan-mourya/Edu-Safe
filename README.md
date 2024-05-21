@@ -69,6 +69,10 @@ The application automatically detects the operating system and sets the path to 
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 ## Acknowledgements
 
 - Tkinter for GUI
